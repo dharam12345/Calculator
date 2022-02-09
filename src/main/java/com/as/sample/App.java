@@ -13,7 +13,8 @@ public class App
 
 	public int add(int i, int j) {
 		// TODO Auto-generated method stub
-		return i + j;
+		int sum = i + j;
+		return sum;
 	}
 	
 	public int sub(int i, int j) {
